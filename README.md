@@ -8,5 +8,10 @@
 <li> Python</li>
 <li> C</li>
 
+## Hobbies
+<li> Listening to music</li>
+<li> Code</li>
+<li> Riding a bike</li>
+
 ## Contact
 Email : tamaasn@yahoo.com
