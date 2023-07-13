@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hi there
 ![](https://komarev.com/ghpvc/?username=tamaasn&color=green)
-## My Linux Desktop
-<img src="scr.png" width="500">
-
 ## Programming languages that i like
 <li> C++</li>
 <li> Python</li>
