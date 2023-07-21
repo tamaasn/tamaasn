@@ -1,5 +1,4 @@
 ### Hi there
-![](https://komarev.com/ghpvc/?username=tamaasn&color=green)
 ## Programming languages that i like
 <li> C++</li>
 <li> Python</li>
