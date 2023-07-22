@@ -12,8 +12,4 @@
 ## Contact
 Email : tamaasn@yahoo.com
 
-```cpp
-#include <iostream>
-int main(){
-  std::cout << "Testing" << std::endl;
-}```
+
