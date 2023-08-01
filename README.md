@@ -5,9 +5,9 @@
 <name> C </name>
 </favorit_languages>
 <hobbies>
-<name> Listening to music </name>
-<name> Code </name>
-<name> Riding a bike </name>
+<activity> Listening to music </activity>
+<activity> Code </activity>
+<activity> Riding a bike </activity>
 </hobbies>
 <contact>
 <email> tamaasn@yahoo.com </email>
