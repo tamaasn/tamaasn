@@ -1,10 +1,10 @@
 ```xml
 <biodata>
-<favorit_languages>
+<favorite_languages>
 <name> C++ </name>
 <name> Python </name>
 <name> C </name>
-</favorit_languages>
+</favorite_languages>
 <hobbies>
 <activity> Listening to music </activity>
 <activity> Code </activity>
