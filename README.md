@@ -1,17 +1,15 @@
-### Hi there
-## Programming languages that i like
-<li> C++</li>
-<li> Python</li>
-<li> C</li>
-
-## Hobbies
-<li> Listening to music</li>
-<li> Code</li>
-<li> Riding a bike</li>
-
-## Contact
-Email : tamaasn@yahoo.com
-
 ```xml
-<a> test </a>
+<favorit_languages>
+<name> C++ </name>
+<name> Python </name>
+<name> C </name>
+</favorit_languages>
+<hobbies>
+<name> Listening to music </name>
+<name> Code </name>
+<name> Riding a bike </name>
+</hobbies>
+<contact>
+<email> tamaasn@yahoo.com </email>
+</contact>
 ```
