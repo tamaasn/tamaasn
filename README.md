@@ -1,6 +1,6 @@
 # i am suck at writing code so dont be surprised if my code is a big mess
 
-'''cpp
+```cpp
 class person{
   private:
     char name[]="Akmal Sani";
@@ -8,3 +8,4 @@ class person{
     char occupation[]="compsci student";
     char website[]="https://blog.akmalsn.my.id";
 }
+``` 
