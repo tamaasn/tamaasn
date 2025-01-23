@@ -2,7 +2,7 @@
 
 ```cpp
 class person{
-  private:
+  public:
     char name[]="Akmal Sani";
     uint8_t age=19;
     char occupation[]="compsci student";
