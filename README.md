@@ -1,5 +1,4 @@
-# i am suck at writing code so dont be surprised if my code is a big mess
-
+## gtw mau isi apa
 ```cpp
 class person{
   public:
